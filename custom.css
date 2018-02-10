@@ -1267,6 +1267,11 @@ span.c-message_attachment__media_trigger {
   color: var(--text) !important;
 }
 
+.c-message__bot_label {
+  color: rdb(190, 190, 190);
+  background: rdb(122, 122, 122);
+}
+
 input.lfs_input,
 div.lfs_input_container,
 div.ql-editor,
