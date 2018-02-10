@@ -1290,8 +1290,8 @@ span.c-message_attachment__media_trigger {
 }
 
 .p-message_pane__unread_banner__banner {
-  color: grey !important;
-  background: darkblue !important;
+  color: var(--text-bright) !important;
+  background: var(--primary) !important;
 }
 
 input.lfs_input,
