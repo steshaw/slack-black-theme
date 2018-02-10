@@ -1289,6 +1289,11 @@ span.c-message_attachment__media_trigger {
   background: var(--background-dark) !important;
 }
 
+.p-message_pane__unread_banner__banner {
+  color: grey !important;
+  background: darkblue !important;
+}
+
 input.lfs_input,
 div.lfs_input_container,
 div.ql-editor,
