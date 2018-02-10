@@ -497,6 +497,7 @@ code {
   color: var(--code-color) !important;
   background-color: var(--background-elevated) !important;
   border-color: var(--border-dim) !important;
+  font-family: 'Source Code Pro', Menlo, Monaco, Consolas, 'Courier New', monospace !important;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #archive_msgs_scroller_div::-webkit-scrollbar-thumb,
