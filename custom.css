@@ -31,6 +31,7 @@ limitations under the License.
   --text-special: var(--primary);
   --scrollbar-background: #000;
   --scrollbar-border: var(--primary);
+  --code-color: #5f7;
 }
 
 h1,
@@ -493,7 +494,7 @@ pre.special_formatting {
 }
 
 code {
-  color: var(--text-special) !important;
+  color: var(--code-color) !important;
   background-color: var(--background-elevated) !important;
   border-color: var(--border-dim) !important;
 }
