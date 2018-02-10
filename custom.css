@@ -1505,7 +1505,7 @@ hr.c-message_list__unread_divider__separator {
 }
 
 span.c-message_list__unread_divider__label {
-  background-color: var(--background-elevated);
+  background-color: var(--background);
   border-style: solid;
   border-color: rgba(255, 0, 0, .2);
   border-width: 2px;
