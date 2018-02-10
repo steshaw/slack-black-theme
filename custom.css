@@ -497,6 +497,9 @@ code {
   color: var(--code-color) !important;
   background-color: var(--background-elevated) !important;
   border-color: var(--border-dim) !important;
+}
+
+pre, code {
   font-family: 'Source Code Pro', Menlo, Monaco, Consolas, 'Courier New', monospace !important;
 }
 
