@@ -1268,8 +1268,8 @@ span.c-message_attachment__media_trigger {
 }
 
 .c-message__bot_label {
-  color: rdb(190, 190, 190);
-  background: rdb(122, 122, 122);
+  color: rdb(190, 190, 190) !important;
+  background: rdb(122, 122, 122) !important;
 }
 
 input.lfs_input,
