@@ -24,6 +24,7 @@ limitations under the License.
   --background-hover: rgba(255, 255, 255, 0.1);
   --background-light: #AAA;
   --background-bright: #FFF;
+  --background-dark: #333;
   --border-dim: #666;
   --border-bright: var(--primary);
   --text-bright: #FFF;
@@ -1268,8 +1269,8 @@ span.c-message_attachment__media_trigger {
 }
 
 .c-message__bot_label {
-  color: rdb(190, 190, 190) !important;
-  background: rdb(122, 122, 122) !important;
+  color: var(--text) !important;
+  background: var(--background-dark) !important;
 }
 
 input.lfs_input,
