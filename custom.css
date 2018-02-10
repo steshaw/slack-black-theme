@@ -1279,6 +1279,11 @@ span.c-message_attachment__media_trigger {
   color: var(--text) !important;
 }
 
+.p-message_pane__limited_history_foreword {
+  color: var(--text) !important;
+  background: var(--background-dark) !important;
+}
+
 .c-message__bot_label {
   color: var(--text) !important;
   background: var(--background-dark) !important;
