@@ -1291,7 +1291,7 @@ span.c-message_attachment__media_trigger {
 
 .p-message_pane__unread_banner__banner {
   color: var(--text-bright) !important;
-  background-color: var(--primary) !important;
+  background-color: var(--background-light) !important;
 }
 
 input.lfs_input,
