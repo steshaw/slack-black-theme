@@ -167,7 +167,10 @@ ts-jumper input[type="text"],
 }
 
 .p-channel_sidebar__jumper {
-  background-color: var(--background) !important;
+  background-color: var(--background-elevated) !important;
+}
+.p-channel_sidebar__jumper:hover {
+  background-color: var(--background-hover) important!;
 }
 
 .p-channel_sidebar__channel--selected,
