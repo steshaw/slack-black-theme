@@ -792,6 +792,12 @@ ts-mention.ts_tip:hover {
 
 /* threads */
 
+.c-message__reply_bar:hover,
+.c-message__reply_bar:hover,
+.c-message__reply_bar_view_thread:hover {
+  background-color: var(--background-hover) !important;
+}
+
 ts-message .reply_bar:hover {
   background: var(--background) !important;
   border: 1px solid var(--border-dim) !important;
