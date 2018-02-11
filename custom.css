@@ -42,10 +42,14 @@ h4 {
   color: var(--text);
 }
 
+html,
+body {
+  background-color: var(--background) !important;
+}
+
 .popover_mask {
   background-color: rgba(0, 0, 0, 0.3);
 }
-
 
 /* Team Picker */
 
